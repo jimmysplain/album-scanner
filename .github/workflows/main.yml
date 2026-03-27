@@ -1,7 +1,7 @@
-"""
+"'"
 Album Cover Scanner — Android Tablet App
 Built with Kivy. Scans video files for visible album covers using Claude AI.
-"""
+"'"
 
 import os, sys, json, base64, csv, threading
 from pathlib import Path
