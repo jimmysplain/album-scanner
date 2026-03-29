@@ -28,10 +28,7 @@ jobs:
             autoconf libtool pkg-config \
             zlib1g-dev libncurses5-dev \
             cmake build-essential \
-            libstdc++6 \
-            libgstreamer1.0-dev \
-            gstreamer1.0-plugins-base \
-            gstreamer1.0-plugins-good
+            libstdc++6
 
       - name: Install Buildozer and Cython
         run: |
